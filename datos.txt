@@ -1,2 +1,4 @@
 Nombre: Daniel Miranda
 Dirección: Calle Bueno 253
+Número de Teléfono: 75875587
+Estado Cívil: Enamorado
